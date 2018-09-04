@@ -7,7 +7,7 @@ void setup(){
 }
 
 void draw(){
-  //background(196, 253, 255);
+  background(196, 253, 255);
   head();
   topHat();
 }
