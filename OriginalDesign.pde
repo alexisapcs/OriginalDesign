@@ -3,11 +3,7 @@ int topHatY;
 int topHatYx;
 
 void setup(){
-  size (500, 500);
-  background(196, 253, 255);
-  System.out.println(width*2/3);
-  System.out.println(PI/5);
-  System.out.println(topHatY);
+  size(500, 500);
 }
 
 void draw(){
