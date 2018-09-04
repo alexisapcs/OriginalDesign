@@ -45,7 +45,6 @@ void moveHat(){
   topHatY += topHatYx; 
   if (topHatY == 0){
     topHatYx = round(random(-6, -1));
-    System.out.println(topHatYx);
   }
   if (topHatY == -60){
     topHatYx = round(random(1, 2)); 
