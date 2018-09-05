@@ -38,7 +38,7 @@ void topHat(){
   fill(160, 0, 0);
   stroke(160, 0, 0);
   rect(0, topHatY-35, 91, 20);
-   moveHat();
+  moveHat();
 }
 
 void moveHat(){
