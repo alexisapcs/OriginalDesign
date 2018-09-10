@@ -1,4 +1,3 @@
-float move;
 int topHatY;
 int topHatYx;
 
